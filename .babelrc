@@ -1,0 +1,12 @@
+{
+  "presets": [
+    "module:metro-react-native-babel-preset"
+  ],
+  "ignore": [
+    "fonts",
+    "vendor",
+    "website",
+    "lib",
+    "node_modules"
+  ]
+}

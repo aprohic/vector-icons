@@ -6,42 +6,42 @@ module.exports = {
     return require('./Entypo').default;
   },
   get EvilIcons() {
-    return require('./EvilIcons').default;
+    return require('./lib/EvilIcons').default;
   },
   get Feather() {
-    return require('./Feather').default;
+    return require('./lib/Feather').default;
   },
   get FontAwesome() {
-    return require('./FontAwesome').default;
+    return require('./lib/FontAwesome').default;
   },
   get Foundation() {
-    return require('./Foundation').default;
+    return require('./lib/Foundation').default;
   },
   get Ionicons() {
-    return require('./Ionicons').default;
+    return require('./lib/Ionicons').default;
   },
   get MaterialCommunityIcons() {
-    return require('./MaterialCommunityIcons').default;
+    return require('./lib/MaterialCommunityIcons').default;
   },
   get MaterialIcons() {
-    return require('./MaterialIcons').default;
+    return require('./lib/MaterialIcons').default;
   },
   get Octicons() {
-    return require('./Octicons').default;
+    return require('./lib/Octicons').default;
   },
   get SimpleLineIcons() {
-    return require('./SimpleLineIcons').default;
+    return require('./lib/SimpleLineIcons').default;
   },
   get Zocial() {
-    return require('./Zocial').default;
+    return require('./lib/Zocial').default;
   },
   get createIconSet() {
-    return require('./createIconSet').default;
+    return require('./lib/createIconSet').default;
   },
   get createIconSetFromFontello() {
-    return require('./createIconSetFromFontello').default;
+    return require('./lib/createIconSetFromFontello').default;
   },
   get createIconSetFromIcoMoon() {
-    return require('./createIconSetFromIcoMoon').default;
+    return require('./lib/createIconSetFromIcoMoon').default;
   },
 };
